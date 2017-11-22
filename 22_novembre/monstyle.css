@@ -1,0 +1,39 @@
+body{
+
+    font-family: 'Futura-Bold', arial;
+    justify-content: space-around;
+}
+.container{
+    height: 100vh;
+    background-color: #f9f9f9;
+    padding: 0 100px;
+}
+.row{
+    padding:5px 0;
+}
+.right{
+    text-align: right;
+    margin-right: 25px;
+}
+.result{
+    background-color: white;
+    color: #a8bdc2;
+    /*height: 120px;
+
+    border-radius: 60px;*/
+    padding:80px 0;
+    line-height: 30%;
+    margin: 50px 0px;
+    font-size: 80px;
+    box-shadow: 10px 10px 35px #eaeaea;
+}
+.up{
+    padding-top: 50px;
+}
+{}
+[class*="col-"]{
+    box-shadow: 1px 1px 2px #eaeaea;
+    text-align: center;
+}
+
+
